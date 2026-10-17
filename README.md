@@ -1,2 +1,2 @@
 # Ice-Cream-rcl.github.io
-ice-cream-rcl.github.io in beta!
+ice-cream-rcl.github.io in version beta!
